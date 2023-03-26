@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/imgtxtenh.dir/htrprep.c.o CMakeFiles/imgtxtenh.dir/imgconv.c.o CMakeFiles/imgtxtenh.dir/imgio_magick.c.o CMakeFiles/imgtxtenh.dir/imgtxtenh.c.o CMakeFiles/imgtxtenh.dir/intimg.c.o CMakeFiles/imgtxtenh.dir/log.c.o CMakeFiles/imgtxtenh.dir/mem.c.o CMakeFiles/imgtxtenh.dir/objs.c.o  -o imgtxtenh  -lMagickCore-6.Q16 -lm 
